@@ -1,0 +1,4 @@
+Pillow
+pip
+setuptools
+wheel
